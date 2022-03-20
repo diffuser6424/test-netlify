@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Ethan's test app!" />
         <p className="description">
-          https://ethandreed.com/
+          <a href="https://ethandreed.com/">Ethans dynamic site</a>
         </p>
       </main>
 
